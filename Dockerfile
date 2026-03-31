@@ -8,7 +8,7 @@ RUN npm install
 
 COPY . .
 
-RUN npm run buil
+RUN npm run build
 
 EXPOSE 4173
 
